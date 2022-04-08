@@ -4,7 +4,7 @@ Practicing the Manipulation of  Spark RDDS  with the Pokemon Example.
 
 ## Dataset
 
-i used the dataset from kaggle ,you can find it from the project folder.
+i used a dataset from kaggle ,you can find it in the project folder.
 
 ## Load the dataset into an RDD
 
