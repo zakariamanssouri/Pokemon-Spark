@@ -1,6 +1,6 @@
 # Pokemon Spark
 
-Practicing the Manipulation of  Spark RDDS  with the Pokemon Example.
+Practicing  Spark RDDS Manipulation with the Pokemon  Example.
 
 ## Dataset
 
